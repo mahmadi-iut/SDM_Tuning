@@ -12,7 +12,9 @@ MaxEnt brings comparable results when the input data is being completed; model p
 
 #-------------------------------------------------------------------------------------------
 
+
 Below, the content of the Zip file is described:
+#-------------------------------------------------------------------------------------------
 
 occ_train.csv: 
 The geographic location of the training data. 
